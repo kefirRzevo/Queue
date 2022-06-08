@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This is a repository for my queue. 
+This is my version of ring buffer data structure - queue. 
 
 ## How to use
 
-Everything you need to test my queue, is just copying these next strings to your terminal/console.
+In should In queue.h file you can view typical functions which you can call.
 
 For usage:
 
